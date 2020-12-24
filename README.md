@@ -1,7 +1,7 @@
 ## Introduction
 Repositories Python programming and algorithms
-## Contents
-# Introduct AI:
+# Contents
+## Introduct AI:
   * Lab01: solution about path search, such as Breadth-First Search, Death-First Search, Uniform Cost Search.
   * Lab02: solution about the missionaries and cannibals problem
   * Lab03: solution about heuristic search, such as Geedy-best-first search, A*
